@@ -13,8 +13,9 @@ That last option seemed like a winner - the motor has a few criteria which made 
   <li>It has a measurable current change</li>
   <li>It only activates when a meal is being dispensed</li>
 </ul>
-On the down side, a turning motor does not guarantee a meal. I would have to keep an eye out for the food level - but I do that now anyway, so onward!
+On the down side, a turning motor does not guarantee a meal. I would have to keep an eye out for the food level - but I do that now anyway.
 
+The solution is an automatic monitoring system using nothing more than a $15 Smartthings sensor and a super cheap photo coupler. It sends email and text notifications if a meal is missed.
 
 <H1>Wiring The Sensor</H1>
 I purchased a <a href="https://www.amazon.com/gp/product/B06XDJ3KYC/">Visonic MCT-343 E</a>, I have already worked with these before so I knew I could simply solder wires to the points A & B.
