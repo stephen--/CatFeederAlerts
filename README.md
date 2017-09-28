@@ -1,6 +1,4 @@
 # Cat Feeder Alerts
-
-<H1>Wiring The Sensor</H1>
 I suspected my <a href="https://www.amazon.com/gp/product/B01M6UC8ZZ/">Automatic cat feader</a> occassionally failed to dispense scheduled meals. In order to try to prove my suspicions I first set up a <a href="https://www.amazon.com/gp/product/B016F3M7OM/">motion activated web cam</a>, but found the motion detect wasn't always reliable.
 
 A webcam wasn't the way - I needed to measure actual meal dispensing, there must be a better way. I thought of a few ways...
@@ -18,6 +16,7 @@ That last option seemed like a winner - the motor has a few criteria which made 
 On the down side, a turning motor does not a meal guarantee. I would have to keep an eye out for the food level - but I do that now anyway, so onward!
 
 
+<H1>Wiring The Sensor</H1>
 I purchased a <a href="https://www.amazon.com/gp/product/B06XDJ3KYC/">Visonic MCT-343 E</a>, I have already worked with these before so I knew I could simply solder wires to the points A & B.
 
 <center>
