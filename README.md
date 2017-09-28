@@ -20,7 +20,7 @@ On the down side, a turning motor does not a meal guarantee. I would have to kee
 I purchased a <a href="https://www.amazon.com/gp/product/B06XDJ3KYC/">Visonic MCT-343 E</a>, I have already worked with these before so I knew I could simply solder wires to the points A & B.
 
 <center>
-<a href="/stephen--/CatFeederAlerts/blob/master/IMG_5704.jpg?raw=true"><img src="/stephen--/CatFeederAlerts/blob/master/IMG_5704.jpg?raw=true" width="500" height="500" border="0"/></a>
+<a href="IMG_5704.jpg?raw=true"><img src="IMG_5704.jpg?raw=true" width="500" height="500" border="0"/></a>
 <br/>
 <i><b>Note:</b> Simply slide the battery cover off and pry the top cover off with your thumb (this can be done safely) in order to access the circuit board</i>
 </center>
