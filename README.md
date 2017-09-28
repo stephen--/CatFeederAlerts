@@ -29,10 +29,9 @@ Having testing and measured the voltage running to the motor when activated, I k
 
 That almost felt too easy! To round things out I added a <a href="https://www.amazon.com/gp/product/B01L6GUH2W/">2xAA battery pack</a> to my MCT-343 E to keep it going longer. 
 
-<H1>Wiring The Sensor</H1>
+<H1>Building the Monitoring System</H1>
 Next up was the logic. I used a IFTTT recipe to log all events from the MCT-343 E on Smartthings to a Google Sheet with a timestamp. Again, feels too easy. 
-
-
+<br/><br/>
 Okay, so I'm logging dispensed meals - I could check multiple times every day but that's stupid. <i>Now</i> I need some logic. Thankfully Google makes this ridiculously easy with their "<a href="https://www.google.com/script/start/">App Scripts</a>".
 
 In the Google Sheet which my IFTTT recipe created I added a second sheet titled "Errors". The following code will automatically insert missed meal entries in "Errors" and send email / text notifications.
