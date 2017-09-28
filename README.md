@@ -13,7 +13,7 @@ That last option seemed like a winner - the motor has a few criteria which made 
   <li>It has a measurable current change</li>
   <li>It only activates when a meal is being dispensed</li>
 </ul>
-On the down side, a turning motor does not a meal guarantee. I would have to keep an eye out for the food level - but I do that now anyway, so onward!
+On the down side, a turning motor does not guarantee a meal. I would have to keep an eye out for the food level - but I do that now anyway, so onward!
 
 
 <H1>Wiring The Sensor</H1>
@@ -21,8 +21,7 @@ I purchased a <a href="https://www.amazon.com/gp/product/B06XDJ3KYC/">Visonic MC
 
 
 <center>
-<br/>
-<a href="IMG_5704.jpg?raw=true"><img src="IMG_5704.jpg?raw=true" width="500" height="500" border="0"/></a><br/><i><b>Note:</b> Simply slide the battery cover off and pry the top cover off with your thumb (this can be done safely) in order to access the circuit board</i><br/>
+<br/><br/><a href="IMG_5704.jpg?raw=true"><img src="IMG_5704.jpg?raw=true" width="500" height="500" border="0"/></a><br/><i><b>Note:</b> Simply slide the battery cover off and pry the top cover off with your thumb (this can be done safely) in order to access the circuit board</i><br/><br/>
 </center>
 
 Having testing and measured the voltage running to the motor when activated, I knew it was operating around 5 volts. Thanks to the kindly help of internet strangers (<a href="https://www.reddit.com/r/AskElectronics/comments/72hgi7/photo_coupler_noob/">exibit A</a>) I was able to get a <a href="https://www.amazon.com/gp/product/B00S4YRMB4/">photo coupler</a> working.
