@@ -14,7 +14,7 @@ That last option seemed like a winner - the motor has a few criteria which made 
   <li>It only activates when a meal is being dispensed</li>
 </ul>
 On the down side, a turning motor does not guarantee a meal. I would have to keep an eye out for the food level - but I do that now anyway.
-<br/>
+<br/><br/>
 The solution is an automatic monitoring system using nothing more than a $15 Smartthings sensor and a super cheap photo coupler. It sends email and text notifications if a meal is missed.
 
 <H1>Wiring The Sensor</H1>
