@@ -19,8 +19,10 @@ On the down side, a turning motor does not a meal guarantee. I would have to kee
 <H1>Wiring The Sensor</H1>
 I purchased a <a href="https://www.amazon.com/gp/product/B06XDJ3KYC/">Visonic MCT-343 E</a>, I have already worked with these before so I knew I could simply solder wires to the points A & B.
 
+
 <center>
 <a href="IMG_5704.jpg?raw=true"><img src="IMG_5704.jpg?raw=true" width="500" height="500" border="0"/></a>
+</center>
 
 
 
