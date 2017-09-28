@@ -43,5 +43,5 @@ I know my script is going to draw some ire; it's not <i>beautiful</i> some may s
 
 <H1>Cat Tax</1>
 <center>
-<br/><br/><a href="https://raw.githubusercontent.com/stephen--/CatFeederAlerts/master/jazz.JPG"><img src="https://raw.githubusercontent.com/stephen--/CatFeederAlerts/master/jazz.JPG" width="500" height="375" border="0"/></a><br/><i><b>Jazz</b></i><br/><br/>
+<br/><br/><a href="https://raw.githubusercontent.com/stephen--/CatFeederAlerts/master/jazz.JPG"><img src="https://raw.githubusercontent.com/stephen--/CatFeederAlerts/master/jazz.JPG" width="500" height="375" border="0"/></a><br/><i>Jazz</i><br/><br/>
 </center>
