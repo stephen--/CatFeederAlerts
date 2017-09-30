@@ -44,7 +44,7 @@ function DetectMeals() {
   }
   
   if (proceedWithMealCheck) {
-    if (currentTime.match(meal2) && !lastTime.match(meal1)) { // Check for 4:29AM Meal Log Entry
+    if (currentTime.match(meal1) && !lastTime.match(meal1)) { // Check for 4:29AM Meal Log Entry
       reportError = true;
       errorState = '4:29AM Meal was not dispensed on' + currentDate;
     }
