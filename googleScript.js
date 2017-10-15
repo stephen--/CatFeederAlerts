@@ -68,7 +68,7 @@ function getSpreadSheetValue(){
 
 function errorReporting(error,errorState,debug,currentEpochTime){
   var myEmail = "put_your_email_here@email.com";
-  var myTextEmail = "if_your_carrier_supports_email_to_Text_put_it_here@urCarrier.com
+  var myTextEmail = "if_your_carrier_supports_email_to_Text_put_it_here@urCarrier.com";
 
   var d = new Date(currentEpochTime*1000);
   var currentTime = Utilities.formatDate(d, Session.getScriptTimeZone(), "hh:mm a").toString();
